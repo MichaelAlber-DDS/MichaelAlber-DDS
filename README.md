@@ -1,6 +1,6 @@
 # Michael Alber — Senior Software Engineer | Denali Data Systems
 
-Enterprise software development for regulated environments.
+.NET & Python | AI/RAG Applications • Security-by-Design • Legacy Modernization | Restoring a '67 Mustang
 
 ## Focus Areas
 
