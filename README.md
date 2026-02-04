@@ -13,7 +13,7 @@
 
 ## Tech Stack
 
-**Backend:** .NET 10, C#, Entity Framework Core, ASP.NET Core, REST APIs  
+**Backend:** .NET 9, C#, Entity Framework Core, ASP.NET Core, REST APIs  
 **AI/ML:** Azure AI Services, RAG pipelines, document intelligence, prompt engineering  
 **Frontend:** Blazor, Telerik UI for Blazor, Razor Components  
 **Patterns:** Vertical Slice Architecture, CQRS, MediatR/FreeMediator, TDD  
@@ -24,7 +24,7 @@
 ### WhisperFYI
 AI-powered SaaS platform for medical sales teams. Built with RAG technology to enable intelligent search across PDFs, Word docs, and presentations — giving sales professionals instant access to product knowledge and competitive intelligence.
 
-**Stack:** .NET 10, C#, Azure AI Services, SQL Server, Azure DevOps  
+**Stack:** .NET 9, C#, Azure AI Services, SQL Server, Azure DevOps  
 **Tools:** Git, Visual Studio, Rider, Docker
 
 ## Current Work
