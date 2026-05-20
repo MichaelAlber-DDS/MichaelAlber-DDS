@@ -14,7 +14,7 @@ architecture principles
 **UI Development** — Blazor Server/WASM, Telerik component integration
 
 ## Tech Stack
-**Backend:** .NET 10, C#, Entity Framework Core, ASP.NET Core, REST APIs, PHP, Laravel
+**Backend:** .NET 10, C#, Entity Framework Core, ASP.NET Core, REST APIs, PHP, Laravel  
 **AI/ML:** Azure AI Services, RAG pipelines, MCP servers, Ollama, prompt engineering  
 **Frontend:** Blazor, Telerik UI for Blazor, Razor Components  
 **Patterns:** Vertical Slice Architecture, CQRS, FreeMediator, TDD  
